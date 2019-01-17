@@ -13,3 +13,40 @@
 #larryBurns {
   display: none;
 }
+.jumbotron {
+  text-align: center;
+  background-image: url(../img/redcarpet.jpg);
+  font-weight: bolder;
+  color:white;
+}
+
+.jumbotron h1{
+  text-decoration: underline;
+  color: lime;
+  text-shadow:3px 3px black;
+}
+
+.dangerStyle {
+  margin-top: 30px;
+  background-color: aqua;
+  border: 8px dotted red;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+
+.rodImg {
+  display:block;
+  margin:auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  height:100%;
+  width:85%;
+  border: 5px solid black;
+  border-radius: 5px;
+
+}
+
+.dangerText {
+  text-align: center;
+}
